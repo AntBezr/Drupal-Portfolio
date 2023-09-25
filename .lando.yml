@@ -1,0 +1,6 @@
+name: my-drupal-live-site
+recipe: pantheon
+config:
+  framework: drupal8
+  site: my-drupal-live-site
+  id: f4afecb7-b70c-4a70-83b5-3cddcce028de
