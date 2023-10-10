@@ -33,5 +33,5 @@ Anton Bezruchenkov
 
 ### Ideas and some code solutions
 
-Zuvi 10.1.0 [ZUVI](https://www.drupar.com/theme/zuvi)
-Pantheon template [Pantheon](https://pantheon.io/)
+- Zuvi 10.1.0 [ZUVI](https://www.drupar.com/theme/zuvi)
+- Pantheon template [Pantheon](https://pantheon.io/)
