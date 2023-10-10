@@ -1,22 +1,37 @@
-# Composer-enabled Drupal template
+# Recipe App / Punny Palate
 
-This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
-that work with the Platform's Integrated Composer build process. It is also the
-Platform's standard Drupal 9 upstream.
+Explore my dynamic portfolio crafted with Drupal 10 and hosted on Pantheon. Discover a showcase of my web development skills and projects.
 
-Unlike with earlier Pantheon upstreams, files such as Drupal Core that you are
-unlikely to adjust while building sites are not in the main branch of the 
-repository. Instead, they are referenced as dependencies that are installed by
-Composer.
+## Technologies used
 
-For more information and detailed installation guides, please visit the
-Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-composer
+Built with:
 
-## Contributing
+- Drupal 10
+- lando
+- Pantheon
 
-Contributions are welcome in the form of GitHub pull requests. However, the
-`pantheon-upstreams/drupal-composer-managed` repository is a mirror that does not
-directly accept pull requests.
 
-Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
-and submit a PR to that repository
+### Live page
+
+[https://live-my-drupal-live-site.pantheonsite.io/](https://live-my-drupal-live-site.pantheonsite.io/)
+
+
+## Screenshoot
+
+![Screenshot ](https://github.com/AntBezr/recipe/assets/117649417/fd39e6af-b204-4acc-be20-f293ffcfd230)
+![Screenshot ](https://github.com/AntBezr/recipe/assets/117649417/ae154466-b84b-4eae-ac53-c293a12a50e1)
+![Screenshot ](https://github.com/AntBezr/recipe/assets/117649417/f319279d-3fc1-4e3b-a5bb-44bba99ca8fd)
+
+
+## Authors and acknowledgment
+
+Author
+Anton Bezruchenkov
+
+- GitHub @AntBezr
+- [LinkedIn](https://www.linkedin.com/in/anton-bezruchenkov-a8609617a/)
+
+### Ideas and some code solutions
+
+Zuvi 10.1.0 [ZUVI](https://www.drupar.com/theme/zuvi)
+Pantheon template [Pantheon](https://pantheon.io/)
